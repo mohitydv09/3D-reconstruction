@@ -61,3 +61,4 @@ Blue represents points closer to the camera, while red represents farther away p
 
 Note :  I used precomputed SIFT features in this code.
 
+Visulation code courtesy of Staff of CSCI:5561 Computer Vision Spring 2024 @UMN.
