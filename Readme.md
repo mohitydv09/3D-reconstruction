@@ -1,7 +1,8 @@
 # 3D Reconstruction from Stereo Images
 
 This project demonstrates a complete pipeline for 3D reconstruction from a pair of stereo images.  
-The main steps include
+
+The main steps include:
 - computing the fundamental matrix,
 - camera pose estimation,
 - triangulation,
@@ -57,4 +58,6 @@ The workflow is implemented in Python with the help of OpenCV, NumPy, and Matplo
 
 Blue represents points closer to the camera, while red represents farther away points.
 <img src = "https://github.com/mohitydv09/stereo-reconstruction-using-SIFT-features/assets/101336175/9d753781-08e4-4752-a4ab-05177c366cb1" width=850 />
+
+Note :  I used precomputed SIFT features in this code.
 
